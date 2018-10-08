@@ -1,0 +1,6 @@
+authors = ["actdeonovic <benjamin.deonovic@act.org>"]
+name = "GramCharlierSeries"
+uuid = "3b8cde00-cb2b-11e8-15d5-23a97614d946"
+version = "0.1.0"
+
+[deps]
